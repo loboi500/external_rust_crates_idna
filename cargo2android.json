@@ -1,10 +1,3 @@
-{
-  "apex-available": [
-    "//apex_available:platform",
-    "com.android.resolv"
-  ],
-  "dependencies": true,
-  "device": true,
-  "min-sdk-version": "29",
-  "run": true
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b25222f3ef81d16baef2ed0a58c4887211e1de610817538a5b0f7a5ab54c444
+size 171
